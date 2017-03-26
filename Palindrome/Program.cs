@@ -15,7 +15,6 @@ namespace Palindrome
 
             bool isPalindrome = IsPalindrome(input);
             Console.WriteLine($"Is the string a palindrome ? {isPalindrome}");
-
         }
         public static bool IsPalindrome(string input)
         {
